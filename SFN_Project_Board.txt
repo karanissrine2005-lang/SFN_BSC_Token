@@ -1,0 +1,47 @@
+# SFN_BSC Token – Project Board
+
+## Columns:
+
+### 1️⃣ Backlog
+- Future features
+- Governance ideas
+- Advanced utilities
+
+### 2️⃣ In Progress
+- Smart Contract preparation (BSC)
+- Tokenomics definition
+- Architecture mapping (GitDiagram)
+
+### 3️⃣ Review
+- Security & logic review
+- Investor feedback
+- Public clarity check
+
+### 4️⃣ Done
+- Repository structure organized
+- Initial README created
+- GitDiagram architecture generated
+
+---
+
+## Cards (Tasks):
+
+1️⃣ Create README
+Description:
+Create a clear README explaining SFN_BSC Token, its purpose, and experimental status.
+
+2️⃣ Define Tokenomics
+Description:
+Define total supply, allocation, and use cases for transparency.
+
+3️⃣ Generate Architecture Map
+Description:
+Use GitDiagram to visualize the repository structure.
+
+4️⃣ Prepare Investor Demo
+Description:
+Demo showing repository, tokenomics, and architecture.
+
+5️⃣ Public Transparency Notes
+Description:
+Document experimental nature and development phases.
